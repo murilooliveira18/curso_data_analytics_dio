@@ -18,6 +18,10 @@
 # Autor
 Murilo Oliveira Martins Delmondes
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/murilo-oliveira-martins-delmondes/
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) murilomaroliveira@gmail.com
+https://www.linkedin.com/in/murilo-oliveira-martins-delmondes/
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+
+murilomaroliveira@gmail.com
